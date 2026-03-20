@@ -1,0 +1,7 @@
+[project]
+name = "omnistate"
+version = "0.1.0"
+description = "Identity and memory layer for agents"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
