@@ -1,2 +1,3 @@
 # omnistate
-Agent identity and memory layer for AI applications
+
+Identity and memory layer for personal agents.
